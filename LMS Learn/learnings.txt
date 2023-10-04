@@ -1,0 +1,7 @@
+
+
+python 2 is outdated by 2020
+IDLE - Python's Integrated Development and Learning Environment is by default IDE for python and this is bundled with the language itself in case of windows, but on linux systems, this is seperately downloaded
+
+Check python in windows using "py --version"
+Any python file can be executed by using command "py file_name.py"
